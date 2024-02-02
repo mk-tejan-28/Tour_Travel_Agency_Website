@@ -1,0 +1,66 @@
+
+     <section class="footer">
+
+        <div class="box-container">
+
+            <div class="box">
+                <h3 style="font-size: 2.5rem;
+                padding: 1rem 0;
+                color: #fff;text-decoration: underline;">about us</h3>
+                <p style="font-size: 1.5rem;
+                padding: 1rem 0;
+                color: #eee;">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae libero magni, modi optio aperiam quasi minus error eius?</p>
+            </div>
+            <div class="box" >
+                <h3 style="font-size: 2.5rem;
+                padding: 1rem 0;
+                color: #fff; text-decoration: underline;">branch locations</h3>
+                <a href="#" style="font-size: 1.5rem; color: #eee;color: var(--orange);
+                text-decoration: underline;">india</a><br>
+                <a href="#" style="font-size: 1.5rem;
+                color: #eee;color: var(--orange);
+    text-decoration: underline;">japan</a><br>
+                <a href="#" style="font-size: 1.5rem;
+                color: #eee;color: var(--orange);
+    text-decoration: underline;">usa</a><br>
+                <a href="#" style="font-size: 1.5rem;
+                color: #eee;color: var(--orange);
+    text-decoration: underline;">france</a><br>
+            </div>
+            <div class="box" >
+                <h3 style="font-size: 2.5rem;
+                padding: 1rem 0;
+                color: #fff;text-decoration: underline;">quick links</h3>
+                <a href="#home" style="font-size: 1.5rem; color: #eee;">home</a><br>
+                <a href="#book" style="font-size: 1.5rem; color: #eee;">book</a><br>
+                <a href="#packages" style="font-size: 1.5rem; color: #eee;">packages</a><br>
+                <a href="#services" style="font-size: 1.5rem; color: #eee;">services</a><br>
+                <a href="#gallery" style="font-size: 1.5rem; color: #eee;">gallery</a><br>
+                <a href="#review" style="font-size: 1.5rem; color: #eee;">review</a><br>
+                <a href="#contact" style="font-size: 1.5rem; color: #eee;">contact</a>
+            </div>
+            <div class="box">
+                <h3 style="font-size: 2.5rem;
+                padding: 1rem 0;
+                color: #fff;text-decoration: underline;">follow us</h3>
+                <a href="#facebook" style="font-size: 1.5rem; color: #eee; 
+                text-decoration: underline;">facebook</a><br>
+                <a href="#instagram" style="font-size: 1.5rem; color: #eee;color: var(--orange);
+                text-decoration: underline;">instagram</a><br>
+                <a href="#twitter" style="font-size: 1.5rem; color: #eee;color: var(--orange);
+                text-decoration: underline;">twitter</a><br>
+                <a href="#linkedin" style="font-size: 1.5rem; color: #eee;color: var(--orange);
+                text-decoration: underline;">linkedin</a>
+            </div>
+            
+
+            <div class="mt-8 border-t border-gray-700 pt-4 text-center lg:text-left">
+                <hr>
+                <p style="text-align: center; color: #eee; font-size: 1.5rem;">&copy; By continuing past this page, you agree to our Terms of Service, Cookie Policy, Privacy Policy and Content Policies. All trademarks are properties of their respective owners. 2008-2023 © HotChill™ Ltd. All rights reserved. </p>
+              </div>
+
+
+        </div>
+
+
+     </section>
